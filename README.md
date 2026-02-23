@@ -1,42 +1,31 @@
-# Merhaba, Ben Nurettin Aksoy! 👋
+# Merhaba! 👋
 
-Yenilikçi web teknolojileri ve yapay zeka çözümleri geliştirmeye tutkulu bir yazılım geliştiriciyim. Fikirleri, kullanıcı dostu ve ölçeklenebilir dijital ürünlere dönüştürmeyi seviyorum.
+Ben C# ve .NET ekosistemine odaklanan, yazılım dünyasında kendini sürekli geliştirmeye adamış bir geliştiriciyim. Kariyerimin henüz başlarında olsam da; temiz kod yazmaya, yeni teknolojiler öğrenmeye ve karmaşık problemleri çözmeye büyük bir tutku duyuyorum. 
 
-### 🔭 Neler Yapıyorum?
-- **Takas:** İnsanların yeteneklerini paylaşabildiği yenilikçi bir beceri takas platformu geliştiriyorum.
-- **Yapay Zeka Eğitim Platformu:** AI teknolojilerini daha erişilebilir kılmak için eğitici bir web projesi üzerinde çalışıyorum.
-- **Dijital Ajans Çözümleri:** TikTok ve modern medya ajansları için dinamik, yüksek performanslı web siteleri oluşturuyorum.
-- **Sistem Taşıma & Optimizasyon:** GoDaddy gibi geleneksel yapılardan Vercel gibi modern serverless mimarilere sorunsuz geçişler sağlıyorum.
+Gelişime her zaman açığım ve bir ekibin parçası olarak değer üretmek, teknik becerilerimi gerçek dünya senaryolarında test etmek en büyük motivasyonum.
 
-### 🌍 Hedeflerim
-Yeni ve zorlu projelere her zaman açığım. Şu sıralar kariyerimi **Hollanda**'da sürdürmek ve orada değer katabileceğim yeni iş fırsatlarını değerlendirmek önceliklerim arasında.
+### 💻 Neler Yapıyorum?
+- **Ana Odak:** Backend tarafında **C# ve .NET** mimarisi üzerinde uzmanlaşıyor, sağlam ve ölçeklenebilir yapılar kurmayı öğreniyorum.
+- **Yapay Zeka Destekli Projeler:** Geliştirme süreçlerimi hızlandırmak ve yeni fikirleri test etmek için yan projelerimde yapay zekayı (AI) aktif olarak kullanıyorum. Örneğin, AI konseptlerini anlatan eğitici bir web platformu üzerine çalışıyorum.
+- **Pratik Deneyimler:** Modern web geliştirme süreçlerinde pratik kazanıyorum. Projelerin geleneksel altyapılardan (örneğin GoDaddy) Vercel gibi modern, sunucusuz (serverless) mimarilere taşınması ve yayınlanması (deployment) konularında gerçek dünya tecrübeleri ediniyorum.
+- **Hedefim:** Teknik yeteneklerimi uluslararası bir vizyonla harmanlamak ve kariyerime **Hollanda**'da yön verecek, bana mentorluk yapabilecek ekiplerle çalışmak.
 
-### 💻 Teknoloji Yığınım & Araçlar
+### 🛠️ Teknoloji & Araç Kutum
 
-**Diller & Backend:**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-**Web Geliştirme & Dağıtım:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**İlgi Alanları:**
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF9900?style=for-the-badge&logo=openai&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web%20Development-00599C?style=for-the-badge&logo=googlechrome&logoColor=white)
+- **Backend:** C#, .NET
+- **Frontend & Web:** JavaScript, HTML, CSS
+- **Araçlar & Platformlar:** Git, GitHub, Vercel, AI Prompt Engineering
 
 ---
 
-### 📈 GitHub İstatistiklerim
+### 📊 GitHub Aktivitelerim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrreesee&show_icons=true&theme=radical" alt="mrreesee's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrreesee&layout=compact&theme=radical" alt="mrreesee's Top Languages" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrreesee&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff" height="150" alt="mrreesee's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrreesee&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9" height="150" alt="Top Languages" />
 </div>
 
-### 📫 Bana Ulaşın:
-- **LinkedIn:** [LinkedIn Profilin](https://linkedin.com/in/seninprofilin)
-- **Email:** [mail@adresin.com](mailto:mail@adresin.com)
+### 📫 İletişime Geçelim
+Gelişimime katkı sağlayacak fırsatlar, projeler veya sadece teknoloji üzerine sohbet etmek için bana her zaman ulaşabilirsiniz:
 
-*"İyi kod, sadece çalışan kod değil; başkalarının da okuyup anlayabildiği koddur."*
+- **Email:** [nurettinaksy@protonmail.com](mailto:nurettinaksy@protonmail.com)
