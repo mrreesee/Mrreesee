@@ -1,4 +1,4 @@
-# Merhaba, Ben [Adın/Kullanıcı Adın]! 👋
+# Merhaba, Ben Nurettin Aksoy! 👋
 
 Yenilikçi web teknolojileri ve yapay zeka çözümleri geliştirmeye tutkulu bir yazılım geliştiriciyim. Fikirleri, kullanıcı dostu ve ölçeklenebilir dijital ürünlere dönüştürmeyi seviyorum.
 
