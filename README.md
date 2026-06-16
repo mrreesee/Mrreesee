@@ -13,6 +13,8 @@ myself: the business foundation (model, financials, investor deck) and the
 product. I'm looking for a **growth/community co-founder** to reach our first
 users and crack marketplace liquidity.
 
+**▶ Code & MVP:** [github.com/mrreesee/zaman-takasi](https://github.com/mrreesee/zaman-takasi) — full-stack (.NET 10 + Blazor)
+
 ### 🛠 Tech
 C# · .NET · JavaScript · HTML/CSS · Git · AI-assisted development
 
